@@ -1,0 +1,22 @@
+{
+  "name": "tapiwanashe/263Lyrics",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Tapiwanashe Maposhere",
+      "email": "tapiwanashe@seeit.co.zw"
+    }
+  ],
+  "require": {
+    "gabordemooij/redbean": "^5.2",
+    "tightenco/collect": "^5.7",
+    "nesbot/carbon": "^2.7",
+    "intervention/image": "^2.4",
+    "paynow/php-sdk": "^1.0",
+    "mailgun/mailgun-php": "^2.8",
+    "kriswallsmith/buzz": "^1.0",
+    "nyholm/psr7": "^1.1"
+  }
+}
