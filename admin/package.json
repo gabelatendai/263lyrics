@@ -49,7 +49,7 @@
     "popper.js": "^1.14.3",
     "raphael": "^2.2.7",
     "rickshaw": "^1.6.6",
-    "select2": "^4.0.6-rc.1",
+    "select2": "^4.0.6",
     "spectrum-colorpicker": "^1.8.0",
     "spinkit": "^1.2.5",
     "summernote": "^0.8.11",
