@@ -20,7 +20,7 @@
     "chartist": "^0.11.0",
     "codemirror": "^5.42.0",
     "cropperjs": "^1.4.3",
-    "d3": "^5.7.0",
+    "d3": "^7.6.1",
     "datatables.net": "^1.10.19",
     "datatables.net-dt": "^1.10.19",
     "datatables.net-responsive": "^2.2.3",
